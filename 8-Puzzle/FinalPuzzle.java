@@ -1,3 +1,10 @@
+/*
+Author : AVINASH SINGH CHAUHAN
+This is main driving class.
+Give the path to the input file(start.txt) and final result file(goal.txt) to run this assignemnt.
+You can make changes in start.txt and goal.txt to see performance of the different approaches.
+*/
+
 package assignment1;
 
 import java.io.BufferedReader;
